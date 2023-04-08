@@ -16,6 +16,7 @@
     "astro": "^2.0.15"
   },
   "dependencies": {
+    "@astrojs/mdx": "^0.18.3",
     "@astrojs/partytown": "^1.0.0",
     "@astrojs/sitemap": "^1.0.0",
     "@astrolib/seo": "^0.3.0",
